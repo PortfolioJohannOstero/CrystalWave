@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 816219790136a2e4cb203c8a945945f9
+timeCreated: 1484956251
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Crystalline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 46544dd12c7a7e1428247008f2e4e895, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
